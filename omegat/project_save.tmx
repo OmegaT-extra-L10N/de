@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T200128Z" creationid="Ragnar-F" creationdate="20210503T200128Z">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T200126Z" creationid="Ragnar-F" creationdate="20210503T200126Z">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193013Z" creationid="Ragnar-F" creationdate="20210503T193008Z">
