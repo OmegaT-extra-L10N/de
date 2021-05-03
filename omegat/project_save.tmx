@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215605Z" creationid="Ragnar-F" creationdate="20210503T215605Z">
+        <seg>Wiederholen nicht möglich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215553Z" creationid="Ragnar-F" creationdate="20210503T215320Z">
+        <seg>Rückgängig nicht möglich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192934Z" creationid="Ragnar-F" creationdate="20210503T192934Z">
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212935Z" creationid="Ragnar-F" creationdate="20210503T212935Z">
         <seg>Zeichen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220315Z" creationid="Ragnar-F" creationdate="20210503T220017Z">
+        <seg>Wählen Sie, welcher Text von den kürzlich kopierten Texten aus der Zwischenablage eingefügt werden soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220227Z" creationid="Ragnar-F" creationdate="20210503T220227Z">
+        <seg>Zwischenablage-Verlauf:</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +370,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T205320Z" creationid="Ragnar-F" creationdate="20210503T205320Z">
         <seg>Gehe zu Zeile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220627Z" creationid="Ragnar-F" creationdate="20210503T220627Z">
+        <seg>V</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,10 +726,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215650Z" creationid="Ragnar-F" creationdate="20210503T215650Z">
+        <seg>Aus dem Verlauf einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212922Z" creationid="Ragnar-F" creationdate="20210503T212922Z">
         <seg>Pfad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215143Z" creationid="Ragnar-F" creationdate="20210503T215143Z">
+        <seg>Platziert den in der Zwischenablage befindlichen Text an der aktuellen Position in der Textdatei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +794,22 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212108Z" creationid="Ragnar-F" creationdate="20210503T212108Z">
         <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215625Z" creationid="Ragnar-F" creationdate="20210503T215625Z">
+        <seg>Wendet die zuletzt rückgängig gemachte Aktion erneut an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215559Z" creationid="Ragnar-F" creationdate="20210503T215559Z">
+        <seg>Wiederholen</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215216Z" creationid="Ragnar-F" creationdate="20210503T215151Z">
+        <seg>Alles markieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192441Z" creationid="Ragnar-F" creationdate="20210503T192441Z">
@@ -834,6 +914,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202346Z" creationid="Ragnar-F" creationdate="20210503T202254Z">
         <seg>Wählen Sie das OMT-Paket zum Importieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215218Z" creationid="Ragnar-F" creationdate="20210503T215218Z">
+        <seg>Markiert den gesamten Text im aktuellen Textdokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +978,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193147Z" creationid="Ragnar-F" creationdate="20210503T193147Z">
         <seg>TagEditor-TTX-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215400Z" creationid="Ragnar-F" creationdate="20210503T215400Z">
+        <seg>Nimmt die letzte Aktion zurück.</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +1066,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192740Z" creationid="Ragnar-F" creationdate="20210503T192740Z">
         <seg>Der Projektordner kann nicht ermittelt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T215527Z" creationid="Ragnar-F" creationdate="20210503T215231Z">
+        <seg>Rückgängig</seg>
       </tuv>
     </tu>
     <tu>
@@ -1143,6 +1247,66 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214526Z" creationid="Ragnar-F" creationdate="20210503T214526Z">
         <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Copy.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220335Z" creationid="Ragnar-F" creationdate="20210503T220335Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Cut.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220429Z" creationid="Ragnar-F" creationdate="20210503T220429Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Delete.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220453Z" creationid="Ragnar-F" creationdate="20210503T220453Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Paste.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220509Z" creationid="Ragnar-F" creationdate="20210503T220509Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Redo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220625Z" creationid="Ragnar-F" creationdate="20210503T220625Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rtextarea/RTextArea.properties</prop>
+      <prop type="id">Action.Undo.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T220604Z" creationid="Ragnar-F" creationdate="20210503T220604Z">
+        <seg>R</seg>
       </tuv>
     </tu>
   </body>
