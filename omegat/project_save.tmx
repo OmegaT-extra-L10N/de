@@ -4,6 +4,326 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.4.4" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192934Z" creationid="Ragnar-F" creationdate="20210503T192934Z">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192853Z" creationid="Ragnar-F" creationdate="20210503T192853Z">
+        <seg>Kopierfehler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193006Z" creationid="Ragnar-F" creationdate="20210503T193006Z">
+        <seg>Doxygen-kommentierte Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192453Z" creationid="Ragnar-F" creationdate="20210503T192453Z">
+        <seg>Filterparameterdateien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T191937Z" creationid="Ragnar-F" creationdate="20210503T191909Z">
+        <seg>Die Filtereinstellungen sind derzeit &lt;b&gt;projektspezifisch&lt;/b&gt;.&lt;br&gt;Daher wird, nachdem Sie auf "OK" geklickt haben, die Parameterdatei an den folgenden Speicherort kopiert:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193013Z" creationid="Ragnar-F" creationdate="20210503T193008Z">
+        <seg>HTML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193100Z" creationid="Ragnar-F" creationdate="20210503T193100Z">
+        <seg>InDesign-IDML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192307Z" creationid="Ragnar-F" creationdate="20210503T192307Z">
+        <seg>Den Namen der Übersetzungseinheit in die Kommentare einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192845Z" creationid="Ragnar-F" creationdate="20210503T192845Z">
+        <seg>Gibt es ein offenes Projekt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193107Z" creationid="Ragnar-F" creationdate="20210503T193101Z">
+        <seg>JSON-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193112Z" creationid="Ragnar-F" creationdate="20210503T193108Z">
+        <seg>Markdown-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192632Z" creationid="Ragnar-F" creationdate="20210503T192632Z">
+        <seg>Fehlender Pfad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193307Z" creationid="Ragnar-F" creationdate="20210503T193307Z">
+        <seg>Kein &lt;xliff&gt;-Element gefunden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192700Z" creationid="Ragnar-F" creationdate="20210503T192700Z">
+        <seg>Keine Parameterdatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192729Z" creationid="Ragnar-F" creationdate="20210503T192729Z">
+        <seg>Kein Projektordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193319Z" creationid="Ragnar-F" creationdate="20210503T193319Z">
+        <seg>Kein Element in der Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192928Z" creationid="Ragnar-F" creationdate="20210503T192928Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T190757Z" creationid="Ragnar-F" creationdate="20210503T190757Z">
+        <seg>Okapi-Filter-Optionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T190835Z" creationid="Ragnar-F" creationdate="20210503T190835Z">
+        <seg>Okapi-XLIFF-Filter-Optionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193118Z" creationid="Ragnar-F" creationdate="20210503T193113Z">
+        <seg>OpenXML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192341Z" creationid="Ragnar-F" creationdate="20210503T192341Z">
+        <seg>Einträge mit state='final' schützen (wenn nicht gesetzt: sie können bearbeitet werden)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193131Z" creationid="Ragnar-F" creationdate="20210503T193124Z">
+        <seg>Qt-TS-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193123Z" creationid="Ragnar-F" creationdate="20210503T193119Z">
+        <seg>SDL-XLIFF-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192441Z" creationid="Ragnar-F" creationdate="20210503T192441Z">
+        <seg>Wählen Sie eine Filterparameterdatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192324Z" creationid="Ragnar-F" creationdate="20210503T192324Z">
+        <seg>Einträge mit translate='no' anzeigen und schützen (wenn nicht gesetzt: sie werden nicht extrahiert)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192927Z" creationid="Ragnar-F" creationdate="20210503T192927Z">
+        <seg>Sorry, es gab ein Problem beim Kopieren der Parameterdatei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193147Z" creationid="Ragnar-F" creationdate="20210503T193147Z">
+        <seg>TagEditor-TTX-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192718Z" creationid="Ragnar-F" creationdate="20210503T192718Z">
+        <seg>Die Parameterdatei existiert nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193252Z" creationid="Ragnar-F" creationdate="20210503T193252Z">
+        <seg>Das Versionsattribut fehlt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193217Z" creationid="Ragnar-F" creationdate="20210503T193207Z">
+        <seg>Transifex-Projekt-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192740Z" creationid="Ragnar-F" creationdate="20210503T192740Z">
+        <seg>Der Projektordner kann nicht ermittelt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192048Z" creationid="Ragnar-F" creationdate="20210503T192048Z">
+        <seg>Standard-Filtereinstellungen verwenden (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192139Z" creationid="Ragnar-F" creationdate="20210503T192139Z">
+        <seg>Folgende Filterparameterdatei verwenden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193206Z" creationid="Ragnar-F" creationdate="20210503T193149Z">
+        <seg>Wordfast-Pro-TXML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193223Z" creationid="Ragnar-F" creationdate="20210503T193218Z">
+        <seg>XLIFF-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193229Z" creationid="Ragnar-F" creationdate="20210503T193224Z">
+        <seg>XLIFF-2-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193335Z" creationid="Ragnar-F" creationdate="20210503T193335Z">
+        <seg>XML-Dateien (Okapi - XML-Filter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193409Z" creationid="Ragnar-F" creationdate="20210503T193409Z">
+        <seg>XML-Dateien (Okapi - XML-Stream-Filter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193420Z" creationid="Ragnar-F" creationdate="20210503T193411Z">
+        <seg>YAML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192647Z" creationid="Ragnar-F" creationdate="20210503T192647Z">
+        <seg>Sie müssen einen Pfad angeben.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
