@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203209Z" creationid="Ragnar-F" creationdate="20210503T203209Z">
+        <seg>Es existiert bereits ein anderes Paket mit demselben Namen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192934Z" creationid="Ragnar-F" creationdate="20210503T192934Z">
@@ -18,6 +26,54 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192853Z" creationid="Ragnar-F" creationdate="20210503T192853Z">
         <seg>Kopierfehler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202703Z" creationid="Ragnar-F" creationdate="20210503T202703Z">
+        <seg>Erstelle neues Projekt aus OMT-Paket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203355Z" creationid="Ragnar-F" creationdate="20210503T203355Z">
+        <seg>Entpacktes OMT-Paket löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203624Z" creationid="Ragnar-F" creationdate="20210503T203624Z">
+        <seg>Lösche Projekt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203343Z" creationid="Ragnar-F" creationdate="20210503T203343Z">
+        <seg>Möchten Sie das OMT-Paket löschen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202959Z" creationid="Ragnar-F" creationdate="20210503T202959Z">
+        <seg>Möchten Sie diese mit der Übersetzung aus dem Paket überschreiben?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203226Z" creationid="Ragnar-F" creationdate="20210503T203226Z">
+        <seg>Möchten Sie dieses Paket überschreiben?</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,7 +104,7 @@
       <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T200128Z" creationid="Ragnar-F" creationdate="20210503T200128Z">
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T201955Z" creationid="Ragnar-F" creationdate="20210503T201955Z">
         <seg>Fuzzy Match</seg>
       </tuv>
     </tu>
@@ -56,8 +112,8 @@
       <tuv lang="en">
         <seg>Fuzzy Matches Issues</seg>
       </tuv>
-      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T200126Z" creationid="Ragnar-F" creationdate="20210503T200126Z">
-        <seg>Fuzzy Matches Issues</seg>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T201938Z" creationid="Ragnar-F" creationdate="20210503T200126Z">
+        <seg>Fuzzy-Matches-Probleme</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +138,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192307Z" creationid="Ragnar-F" creationdate="20210503T192307Z">
         <seg>Den Namen der Übersetzungseinheit in die Kommentare einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202420Z" creationid="Ragnar-F" creationdate="20210503T202420Z">
+        <seg>Ungültiges OMT-Paket, Datei "omegat.project" fehlt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +222,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203326Z" creationid="Ragnar-F" creationdate="20210503T203326Z">
+        <seg>OMT-Paket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202359Z" creationid="Ragnar-F" creationdate="20210503T202359Z">
+        <seg>OMT-Paket-Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203319Z" creationid="Ragnar-F" creationdate="20210503T203319Z">
+        <seg>OMT-Paket erfolgreich erstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203430Z" creationid="Ragnar-F" creationdate="20210503T203430Z">
+        <seg>OMT-Paket importiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203541Z" creationid="Ragnar-F" creationdate="20210503T203541Z">
+        <seg>OMT-Projekt gepackt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T190757Z" creationid="Ragnar-F" creationdate="20210503T190757Z">
@@ -178,6 +282,46 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193118Z" creationid="Ragnar-F" creationdate="20210503T193113Z">
         <seg>OpenXML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203244Z" creationid="Ragnar-F" creationdate="20210503T203244Z">
+        <seg>OMT-Paket überschreiben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203151Z" creationid="Ragnar-F" creationdate="20210503T203151Z">
+        <seg>Datei project_save.tmx überschreiben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202215Z" creationid="Ragnar-F" creationdate="20210503T202215Z">
+        <seg>Projekt packen und löschen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202200Z" creationid="Ragnar-F" creationdate="20210503T202200Z">
+        <seg>Projekt als OMT-Datei packen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203540Z" creationid="Ragnar-F" creationdate="20210503T203540Z">
+        <seg>Packe OMT-Projekt...</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +350,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202056Z" creationid="Ragnar-F" creationdate="20210503T202056Z">
+        <seg>Segment mit einem Fuzzy-Match-Präfix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192441Z" creationid="Ragnar-F" creationdate="20210503T192441Z">
         <seg>Wählen Sie eine Filterparameterdatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202334Z" creationid="Ragnar-F" creationdate="20210503T202330Z">
+        <seg>Wählen Sie Speicherort und Name des OMT-Pakets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202346Z" creationid="Ragnar-F" creationdate="20210503T202254Z">
+        <seg>Wählen Sie das OMT-Paket zum Importieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +406,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203334Z" creationid="Ragnar-F" creationdate="20210503T203334Z">
+        <seg>Das Paket wurde erfolgreich entpackt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192718Z" creationid="Ragnar-F" creationdate="20210503T192718Z">
         <seg>Die Parameterdatei existiert nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202944Z" creationid="Ragnar-F" creationdate="20210503T202716Z">
+        <seg>Das Projekt hat bereits eine fortlaufende Übersetzung.</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +450,30 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192740Z" creationid="Ragnar-F" creationdate="20210503T192740Z">
         <seg>Der Projektordner kann nicht ermittelt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202143Z" creationid="Ragnar-F" creationdate="20210503T202143Z">
+        <seg>Projekt aus OMT-Datei entpacken...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203421Z" creationid="Ragnar-F" creationdate="20210503T203421Z">
+        <seg>Entpacke OMT-Paket...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202535Z" creationid="Ragnar-F" creationdate="20210503T202535Z">
+        <seg>Aktualisiere aktuelles Projekt mit Inhalt des OMT-Pakets</seg>
       </tuv>
     </tu>
     <tu>
