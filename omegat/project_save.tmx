@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212245Z" creationid="Ragnar-F" creationdate="20210503T212210Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203209Z" creationid="Ragnar-F" creationdate="20210503T203209Z">
@@ -14,10 +22,82 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212303Z" creationid="Ragnar-F" creationdate="20210503T210126Z">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192934Z" creationid="Ragnar-F" creationdate="20210503T192934Z">
         <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212935Z" creationid="Ragnar-F" creationdate="20210503T212935Z">
+        <seg>Zeichen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214131Z" creationid="Ragnar-F" creationdate="20210503T214131Z">
+        <seg>Alle Kommentare zuklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214044Z" creationid="Ragnar-F" creationdate="20210503T213916Z">
+        <seg>Alle Faltungen zuklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214217Z" creationid="Ragnar-F" creationdate="20210503T214217Z">
+        <seg>Klappt alle Kommentarfaltungen zu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214052Z" creationid="Ragnar-F" creationdate="20210503T214023Z">
+        <seg>Klappt alle Faltungen zu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212425Z" creationid="Ragnar-F" creationdate="20210503T212425Z">
+        <seg>Inhaltsassistent verfügbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214625Z" creationid="Ragnar-F" creationdate="20210503T214625Z">
+        <seg>Kopiert die aktuelle Auswahl in die Zwischenablage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214617Z" creationid="Ragnar-F" creationdate="20210503T214617Z">
+        <seg>Kopieren</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +118,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214635Z" creationid="Ragnar-F" creationdate="20210503T214635Z">
+        <seg>Ausschneiden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210529Z" creationid="Ragnar-F" creationdate="20210503T210529Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214814Z" creationid="Ragnar-F" creationdate="20210503T214814Z">
+        <seg>Löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete unpacked OMT Package</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203355Z" creationid="Ragnar-F" creationdate="20210503T203355Z">
@@ -50,6 +154,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T203624Z" creationid="Ragnar-F" creationdate="20210503T203624Z">
         <seg>Lösche Projekt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210503Z" creationid="Ragnar-F" creationdate="20210503T210254Z">
+        <seg>Suchrichtung:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +190,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210520Z" creationid="Ragnar-F" creationdate="20210503T210520Z">
+        <seg>Nach unten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193006Z" creationid="Ragnar-F" creationdate="20210503T193006Z">
         <seg>Doxygen-kommentierte Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210923Z" creationid="Ragnar-F" creationdate="20210503T210923Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213153Z" creationid="Ragnar-F" creationdate="20210503T213153Z">
+        <seg>Kodierung:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210147Z" creationid="Ragnar-F" creationdate="20210503T210147Z">
+        <seg>Fehler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214234Z" creationid="Ragnar-F" creationdate="20210503T214234Z">
+        <seg>Alle Faltungen aufklappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214313Z" creationid="Ragnar-F" creationdate="20210503T214313Z">
+        <seg>Klappt alle Faltungen auf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212058Z" creationid="Ragnar-F" creationdate="20210503T212058Z">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213159Z" creationid="Ragnar-F" creationdate="20210503T213159Z">
+        <seg>Dateigröße:</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +278,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210240Z" creationid="Ragnar-F" creationdate="20210503T210240Z">
+        <seg>Suchen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212757Z" creationid="Ragnar-F" creationdate="20210503T212757Z">
+        <seg>Vorherige suchen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211126Z" creationid="Ragnar-F" creationdate="20210503T211126Z">
+        <seg>Suchen nach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212532Z" creationid="Ragnar-F" creationdate="20210503T212532Z">
+        <seg>Suchen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213726Z" creationid="Ragnar-F" creationdate="20210503T213726Z">
+        <seg>Falten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T201955Z" creationid="Ragnar-F" creationdate="20210503T201955Z">
@@ -118,10 +334,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T205320Z" creationid="Ragnar-F" creationdate="20210503T205320Z">
+        <seg>Gehe zu Zeile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193013Z" creationid="Ragnar-F" creationdate="20210503T193008Z">
         <seg>HTML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211142Z" creationid="Ragnar-F" creationdate="20210503T211142Z">
+        <seg>S</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +398,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212307Z" creationid="Ragnar-F" creationdate="20210503T212307Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T205520Z" creationid="Ragnar-F" creationdate="20210503T205520Z">
+        <seg>Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213235Z" creationid="Ragnar-F" creationdate="20210503T213235Z">
+        <seg>Zuletzt geändert:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T205329Z" creationid="Ragnar-F" creationdate="20210503T205329Z">
+        <seg>Zeilennummer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213246Z" creationid="Ragnar-F" creationdate="20210503T213146Z">
+        <seg>Zeilentrennung:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213349Z" creationid="Ragnar-F" creationdate="20210503T213345Z">
+        <seg>Zeile: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212926Z" creationid="Ragnar-F" creationdate="20210503T212926Z">
+        <seg>Zeilen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210845Z" creationid="Ragnar-F" creationdate="20210503T210845Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211218Z" creationid="Ragnar-F" creationdate="20210503T211218Z">
+        <seg>Alle markieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193112Z" creationid="Ragnar-F" creationdate="20210503T193108Z">
@@ -174,10 +478,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210555Z" creationid="Ragnar-F" creationdate="20210503T210555Z">
+        <seg>Groß-/Kleinschreibung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192632Z" creationid="Ragnar-F" creationdate="20210503T192632Z">
         <seg>Fehlender Pfad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213437Z" creationid="Ragnar-F" creationdate="20210503T213437Z">
+        <seg>Mehrere Marker auf dieser Zeile:</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +530,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193319Z" creationid="Ragnar-F" creationdate="20210503T193319Z">
         <seg>Kein Element in der Datei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T205840Z" creationid="Ragnar-F" creationdate="20210503T205840Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213446Z" creationid="Ragnar-F" creationdate="20210503T213446Z">
+        <seg>Vorkommen von "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T190757Z" creationid="Ragnar-F" creationdate="20210503T190757Z">
@@ -274,6 +610,14 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T190835Z" creationid="Ragnar-F" creationdate="20210503T190835Z">
         <seg>Okapi-XLIFF-Filter-Optionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213316Z" creationid="Ragnar-F" creationdate="20210503T213316Z">
+        <seg>Alter Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211158Z" creationid="Ragnar-F" creationdate="20210503T211158Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202215Z" creationid="Ragnar-F" creationdate="20210503T202215Z">
@@ -326,6 +678,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214848Z" creationid="Ragnar-F" creationdate="20210503T214843Z">
+        <seg>Einfügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212922Z" creationid="Ragnar-F" creationdate="20210503T212922Z">
+        <seg>Pfad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T205839Z" creationid="Ragnar-F" creationdate="20210503T205839Z">
+        <seg>Bitte geben Sie eine Zahl ein, zwischen 1 und</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213507Z" creationid="Ragnar-F" creationdate="20210503T213507Z">
+        <seg>Drücken Sie 'F2' zum Fokussieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212917Z" creationid="Ragnar-F" creationdate="20210503T212904Z">
+        <seg>Eigenschaften: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192341Z" creationid="Ragnar-F" creationdate="20210503T192341Z">
@@ -338,6 +730,70 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193131Z" creationid="Ragnar-F" creationdate="20210503T193124Z">
         <seg>Qt-TS-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212108Z" creationid="Ragnar-F" creationdate="20210503T212108Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210805Z" creationid="Ragnar-F" creationdate="20210503T210805Z">
+        <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214807Z" creationid="Ragnar-F" creationdate="20210503T214807Z">
+        <seg>Entfernt die aktuelle Auswahl und platziert sie in die Zwischenablage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214840Z" creationid="Ragnar-F" creationdate="20210503T214840Z">
+        <seg>Entfernt die aktuelle Auswahl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210246Z" creationid="Ragnar-F" creationdate="20210503T210246Z">
+        <seg>Ersetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211210Z" creationid="Ragnar-F" creationdate="20210503T211210Z">
+        <seg>Alle ersetzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211132Z" creationid="Ragnar-F" creationdate="20210503T211132Z">
+        <seg>Ersetzen durch:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212537Z" creationid="Ragnar-F" creationdate="20210503T212537Z">
+        <seg>Ersetzen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +838,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212839Z" creationid="Ragnar-F" creationdate="20210503T212839Z">
+        <seg>Umschalt+Enter führt eine umgekehrte Ersetzung durch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212850Z" creationid="Ragnar-F" creationdate="20210503T212615Z">
+        <seg>Umschalt+Enter führt eine umgekehrte Suche durch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192324Z" creationid="Ragnar-F" creationdate="20210503T192324Z">
@@ -394,6 +866,22 @@
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T192927Z" creationid="Ragnar-F" creationdate="20210503T192927Z">
         <seg>Sorry, es gab ein Problem beim Kopieren der Parameterdatei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213343Z" creationid="Ragnar-F" creationdate="20210503T213343Z">
+        <seg>Systemstandard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214627Z" creationid="Ragnar-F" creationdate="20210503T214627Z">
+        <seg>T</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +926,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213846Z" creationid="Ragnar-F" creationdate="20210503T213742Z">
+        <seg>Aktuelle Faltung umschalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213840Z" creationid="Ragnar-F" creationdate="20210503T213840Z">
+        <seg>Schaltet die Faltung an der Position des Textcursors um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transifex project files (Okapi)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193217Z" creationid="Ragnar-F" creationdate="20210503T193207Z">
         <seg>Transifex-Projekt-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210525Z" creationid="Ragnar-F" creationdate="20210503T210525Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213317Z" creationid="Ragnar-F" creationdate="20210503T213317Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210458Z" creationid="Ragnar-F" creationdate="20210503T210458Z">
+        <seg>Nach oben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T202535Z" creationid="Ragnar-F" creationdate="20210503T202535Z">
@@ -494,10 +1022,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210846Z" creationid="Ragnar-F" creationdate="20210503T210846Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T210804Z" creationid="Ragnar-F" creationdate="20210503T210804Z">
+        <seg>Ganzes Wort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T213319Z" creationid="Ragnar-F" creationdate="20210503T213319Z">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="de" changeid="Ragnar-F" changedate="20210503T193206Z" creationid="Ragnar-F" creationdate="20210503T193149Z">
         <seg>Wordfast-Pro-TXML-Dateien (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T212938Z" creationid="Ragnar-F" creationdate="20210503T212938Z">
+        <seg>Wörter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211035Z" creationid="Ragnar-F" creationdate="20210503T210944Z">
+        <seg>Am Ende von vorne beginnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +1116,34 @@
         <seg>Sie müssen einen Pfad angeben.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T211042Z" creationid="Ragnar-F" creationdate="20210503T211042Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseAllFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214453Z" creationid="Ragnar-F" creationdate="20210503T214453Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">RSyntaxTextArea/rsyntaxtextarea/RSyntaxTextArea.properties</prop>
+      <prop type="id">Action.CollapseCommentFolds.Mnemonic</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="de" changeid="Ragnar-F" changedate="20210503T214526Z" creationid="Ragnar-F" creationdate="20210503T214526Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
